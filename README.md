@@ -56,7 +56,7 @@ If you have problems, please call OIT support line at (949) 824-2222 option 3
 
 ## GitHub Repo
 
-SoCal RUG GitHub Repo: [https://github.com/ocrug/](https://github.com/socalrug/)
+SoCal RUG GitHub Repo: [https://github.com/socalrug/](https://github.com/socalrug/)
 
 You will be able to access all the slides, code, and other course material in the course repository. You can [download](https://github.com/socalrug/nonparametric_analysis_2022-01-22/archive/refs/heads/master.zip) the content as a ZIP file. If you use this method you will not be able to get updates that will be made unless you download the content again. Another alternative is to clone the git repo. To do this you will need to install git. You can find instructions on doing that [here](https://github.com/socalrug/nonparametric_analysis_2022-01-22/blob/master/setup/install_git.txt).
 
@@ -128,7 +128,7 @@ Do to COVID restrictions we will not be able to provide lunch. The [University T
 |11:10|11:25|Break|||
 |11:25|12:00|Friedman Rank test||
 |12:00|12:30|Spearman Rank Correlation Coefficient||
-|12:30:02:00|Lunch||
+|12:30|02:00|Lunch||
 |02:00|02:40|Fisher Exact test||
 |02:40|03:20|Loess Regression||
 |03:20|04:15|Bootstrap method of estimation||
