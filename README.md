@@ -126,7 +126,7 @@ Do to COVID restrictions we will not be able to provide lunch. The [University T
 |09:30|10:30|Wilcoxon Rank-sum test||
 |10:30|11:10|Kolmogorov-Smirnov test||
 |11:10|11:25|Break|||
-|11:25|12:00|Friedman Rank test||
+|11:25|12:00|Kruskal-Wallis H-test||
 |12:00|12:30|Spearman Rank Correlation Coefficient||
 |12:30|02:00|Lunch||
 |02:00|02:40|Fisher Exact test||
