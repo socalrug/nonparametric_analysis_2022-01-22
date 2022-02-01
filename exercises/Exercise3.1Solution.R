@@ -1,3 +1,3 @@
-UCLA<- c(27,37,40,63,31,81,63,57,90,94)
-Constant<- c(56,78,60,55,67,68,64)
-ks.test(UCLA, Constant, alternative="two.sided", exact=FALSE)
+UCLA <- c(27,37,40,63,31,81,63,57,90,94)
+Constant <- c(56,78,60,55,67,68,64)
+ks.test(UCLA, Constant, alternative = "two.sided", exact = FALSE)

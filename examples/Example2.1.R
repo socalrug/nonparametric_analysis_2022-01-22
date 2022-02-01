@@ -1,5 +1,5 @@
 #install.packages("exactRankTests")
 library(exactRankTests)
-yes<- c(3.98, 3.45, 3.66, 3.78, 3.90, 4.00, 3.78, 3.12, 3.45, 3.97)
-no<- c(3.42, 2.56, 2.00, 3.19, 3.00, 3.56, 3.56, 4.00, 2.78, 3.44)
-wilcox.exact(yes,no, paired=FALSE, alternative="greater")
+yes <- c(3.98, 3.45, 3.66, 3.78, 3.90, 4.00, 3.78, 3.12, 3.45, 3.97)
+no <- c(3.42, 2.56, 2.00, 3.19, 3.00, 3.56, 3.56, 4.00, 2.78, 3.44)
+wilcox.exact(yes, no, paired = FALSE, alternative = "greater")
