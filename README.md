@@ -19,7 +19,7 @@ Dr. Olga is an undergraduate advisor for students majoring in Mathematics with a
 
 ## Event Details
 
-**When**: January 22, 2022
+**When**: Feburary 26, 2022
 
 * Saturday: 8:30 AM - 04:30 PM
 
