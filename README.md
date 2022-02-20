@@ -54,6 +54,33 @@ Irvine, CA 92617
 
 If you have problems, please call OIT support line at (949) 824-2222 option 3
 
+## Set-up Instructions
+
+You have two options for working with the code examples and exercises for the workshop:
+
+### On your own computer
+1. Download and install R and RStudio (if you haven't already)
+2. Download the examples and exercises code from the workshop GitHub repository: [https://github.com/ocrug/regression_models_2021-02-09](https://github.com/ocrug/regression_models_2021-02-09)
+	1. If you don't know how to use Git, download the course files by clicking the green "Code" button and select "Download ZIP".
+	2. If you do know how to use Git, clone the repo to your computer
+3. Unzip the files (or go to the directory where you cloned the repository), and double click the file called `project.Rproj`.  This will start RStudio and you can see the examples and exercises code in the two folder called examples and exercises.
+4. Install the following packages
+    * `bootstrap`
+    * `devtools`
+    * `exactRankTests`
+    * `fANCOVA`
+    * `magrittr`
+    * `rstudioapi`
+    * `stats`
+    * `stringr`
+    * `tibble`
+    * `tidyverse`
+
+### Using RStudio Cloud
+1. Create a free account on RStudio Cloud: [https://rstudio.cloud](https://rstudio.cloud)
+2. Go to the workshop project: [https://rstudio.cloud/project/3583424](https://rstudio.cloud/project/3583424)
+3. At the top of the project window, Click "Save a Permanent Copy" — it's by the flashing red "Temporary Project" sign.
+4. The project and all its files will now be in your own Personal workspace.  You have 25 free hours per month using RStudio Cloud.
 ## GitHub Repo
 
 SoCal RUG GitHub Repo: [https://github.com/socalrug/](https://github.com/socalrug/)
@@ -86,11 +113,11 @@ The channel for the course is **nonparametric-2022**
 
 ## Check your setup
 
-Since this event depends on you have an R setup that is functional with the correct packages and version of R, we highly recommend that you run the [check_setup.r](https://github.com/socalrug/nonparametric_analysis_2022-01-22/blob/master/check_setup.r) before the event. If you have issues, please reach out to use in the slack channel (see above) to get help.
+Since this event depends on you have an R setup that is functional with the correct packages and version of R, we highly recommend that you run the [check_setup.r](https://github.com/socalrug/nonparametric_analysis_2022-01-22/blob/master/check_setup.r) before the event. If you have issues, please reach out to us in the slack channel (see above) to get help.
 
 ## Twitter
 
-Please follow us on twitter, oc_rug, and also tweet about the event with the hash tag #SoCal RUG
+Please follow us on twitter, oc_rug, and also tweet about the event with the hash tag #SoCalRUG
 
 ## Resources
 
