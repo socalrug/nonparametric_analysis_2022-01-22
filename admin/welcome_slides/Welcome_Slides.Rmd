@@ -99,3 +99,20 @@ The University Town Center (UTC) is located within a 5-minute walk of the classr
 |02:40|03:20|Loess Regression|
 |03:20|04:15|Bootstrap method of estimation|
 |04:15|04:30|Wrap-up|
+
+---
+
+# Dr. Olga
+
+* Education
+  * Bachelor’s degree in Mathematics from Wayne State University in Detroit
+  * Ph.D. in Statistics from Purdue University
+* Statistics Professor
+  * California State University, Long Beach (CSULB)
+  * Department of Mathematics and Statistics
+* Activities
+  * Undergraduate advisor - Mathematics majors with an option in Statistics
+  * Faculty supervisor - Statistics Student Association
+  * Past-president of the Southern California Chapter of the American Statistical Association (SCASA). 
+  * Editor-in-chief of SCASA’s monthly eNewsletter
+  * Author (co-author) of four statistical books
