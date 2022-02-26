@@ -14,7 +14,7 @@ The workshop is designed to be hands-on. Participants are required to bring lapt
 
 Dr. Olga Korosteleva, is a professor of Statistics at the Department of Mathematics and Statistics at California State University, Long Beach (CSULB). She received her Bachelor’s degree in Mathematics in 1996 from Wayne State University in Detroit, and a Ph.D. in Statistics from Purdue University in West Lafayette, Indiana, in 2002. Since then she has been teaching mostly Statistics courses in the Master’s program in Applied Statistics at CSULB, and loving it!
 
-Dr. Olga is an undergraduate advisor for students majoring in Mathematics with an option in Statistics. She is also the faculty supervisor for the Statistics Student Association. She is also the immediate past-president of the Southern California Chapter of the American Statistical Association (SCASA). Dr. Olga is the editor-in-chief of SCASA’s monthly eNewsletter and the author (co-author) of four statistical books.
+Dr. Olga is an undergraduate advisor for students majoring in Mathematics with an option in Statistics. She is also the faculty supervisor for the Statistics Student Association. She is also the Treasurer of the Southern California Chapter of the American Statistical Association (SCASA). Dr. Olga is the editor-in-chief of SCASA’s monthly eNewsletter and the author (co-author) of five statistical books.
 
 
 ## Event Details
