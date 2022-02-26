@@ -32,7 +32,7 @@ University of California, Irvine -- Paul Merage School of Business
 Irvine, CA 92617
 
 * [Google Maps](https://www.google.com/maps/place/The+Paul+Merage+School+of+Business/@33.6468381,-117.8402619,17z/data=!3m1!4b1!4m5!3m4!1s0x80dcde0edc8d16f9:0x42b754c2a210a0e0!8m2!3d33.6468337!4d-117.8380732)
-* [Directions & Parking Information](https://github.com/socalrug/nonparametric_analysis_2022-01-22/blob/master/parking/Parking%20and%20Building%20Location.pdf)
+* [Directions & Parking Information](https://github.com/socalrug/nonparametric_analysis_2022-01-22/blob/master/parking/Parking%20and%20Building%20Location.pdf). You pay for parking at the entrance. To get a full day pass, go to the second screen on the kiosk. It is quite expensive to pay by hour.
 * Room
     * Building: SB1, Room 2100
 
@@ -52,7 +52,7 @@ Irvine, CA 92617
 * Go to [https://oit.uci.edu/reg](https://oit.uci.edu/reg)
 * register your device as a guest
 
-If you have problems, please call OIT support line at (949) 824-2222 option 3
+If you have problems, please call OIT support line at (949) 824-2222 option 3 or the Merage IT support line (949)824-0852
 
 ## Set-up Instructions
 

@@ -6,12 +6,12 @@ rates <- list(sample1 = t24, sample2 = t28, sample3 = t30, sample4 = t32)
 kruskal.test(rates)
 
 
-ks.test(t24, t28, alternative = "two.sided", exact = FALSE)
-ks.test(t24, t30, alternative = "two.sided", exact = FALSE)
-ks.test(t24, t32, alternative = "two.sided", exact = FALSE)
+wilcox.exact(t24, t28, alternative = "two.sided", exact = FALSE)
+wilcox.exact(t24, t30, alternative = "two.sided", exact = FALSE)
+wilcox.exact(t24, t32, alternative = "two.sided", exact = FALSE)
 
-ks.test(t28, t30, alternative = "two.sided", exact = FALSE)
-ks.test(t28, t32, alternative = "two.sided", exact = FALSE)
+wilcox.exact(t28, t30, alternative = "two.sided", exact = FALSE)
+wilcox.exact(t28, t32, alternative = "two.sided", exact = FALSE)
 
-ks.test(t30, t32, alternative = "two.sided", exact = FALSE)
+wilcox.exact(t30, t32, alternative = "two.sided", exact = FALSE)
 
