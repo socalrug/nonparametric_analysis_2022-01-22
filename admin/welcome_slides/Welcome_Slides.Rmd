@@ -1,0 +1,101 @@
+---
+title: "Nonparametric Analysis: A Primer"
+author: "John Peach"
+institute: "SoCal R User Group"
+date: "2022-02-26"
+output:
+  xaringan::moon_reader:
+    css: [metropolis-custom.css, custom.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# WiFi Access
+
+.large[
+1. Connect to SSID: UCInet Mobile
+1. Go to https://oit.uci.edu/reg
+1. Register your device as a guest
+
+OIT support line at (949) 824-2222 option 3
+]
+
+---
+
+# Set-up Instructions
+
+.large[
+Options:
+1. Use your personal machine
+1. Use RStudio Cloud
+
+Instructions:
+]
+
+.medium[
+https://github.com/socalrug/nonparametric_analysis_2022-01-22
+]
+
+---
+
+# GitHub
+
+.large[
+https://github.com/socalrug/
+
+```
+git clone https://github.com/socalrug/nonparametric_analysis_2022-01-22.git
+```
+
+Demo how to download
+
+Show the files in the repo
+]
+
+
+
+---
+
+# Slack Channel
+
+.large[
+* Slack Sign-up: 
+  * https://tinyurl.com/socalrug-slack-signup
+* Slack channel: 
+  * https://tinyurl.com/socalrug-slack
+* Course channel: 
+  * nonparametric-2022
+]
+
+---
+
+# Food
+
+.large[
+* No food is allowed in the room.
+* Due to COVID restrictions we will cannot provide food. 
+
+The University Town Center (UTC) is located within a 5-minute walk of the classroom. There are many restaurants there. There will be a 1.5 hour break.
+]
+
+---
+
+# Schedule
+
+|Start|End|Activity|
+|:---:|:---:|:------|
+|08:30|09:00|Sign-in|
+|09:00|09:30|Introduction and computer setup|
+|09:30|10:30|Wilcoxon Rank-sum test|
+|10:30|11:10|Kolmogorov-Smirnov test|
+|11:10|11:25|Break|
+|11:25|12:00|Kruskal-Wallis H-test|
+|12:00|12:30|Spearman Rank Correlation Coefficient|
+|12:30|02:00|Lunch|
+|02:00|02:40|Fisher Exact test|
+|02:40|03:20|Loess Regression|
+|03:20|04:15|Bootstrap method of estimation|
+|04:15|04:30|Wrap-up|

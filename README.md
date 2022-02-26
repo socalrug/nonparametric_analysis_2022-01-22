@@ -81,6 +81,7 @@ You have two options for working with the code examples and exercises for the wo
 2. Go to the workshop project: [https://rstudio.cloud/project/3583424](https://rstudio.cloud/project/3583424)
 3. At the top of the project window, Click "Save a Permanent Copy" — it's by the flashing red "Temporary Project" sign.
 4. The project and all its files will now be in your own Personal workspace.  You have 25 free hours per month using RStudio Cloud.
+
 ## GitHub Repo
 
 SoCal RUG GitHub Repo: [https://github.com/socalrug/](https://github.com/socalrug/)
@@ -97,9 +98,13 @@ git clone https://github.com/socalrug/nonparametric_analysis_2022-01-22.git
 
 Event Repo: [https://github.com/socalrug/nonparametric_analysis_2022-01-22](https://github.com/socalrug/nonparametric_analysis_2022-01-22)
 
+## Check your setup
+
+Since this event depends on you have an R setup that is functional with the correct packages and version of R, we highly recommend that you run the [check_setup.r](https://github.com/socalrug/nonparametric_analysis_2022-01-22/blob/master/check_setup.r) before the event. If you have issues, please reach out to us in the slack channel (see above) to get help.
+
 ## Slack Channel
 
-A slack channel has been set up for the hackathon. This will be used for general announcements but it is also a great source for you to ask questions to other participants.
+A slack channel has been set up for the event. This will be used for general announcements but it is also a great source for you to ask questions to other participants.
 
 If you have not created an account on our slack group, create one using the following link:
 
@@ -111,52 +116,23 @@ Slack channel: [https://tinyurl.com/socalrug-slack](https://tinyurl.com/socalrug
 
 The channel for the course is **nonparametric-2022**
 
-## Check your setup
-
-Since this event depends on you have an R setup that is functional with the correct packages and version of R, we highly recommend that you run the [check_setup.r](https://github.com/socalrug/nonparametric_analysis_2022-01-22/blob/master/check_setup.r) before the event. If you have issues, please reach out to us in the slack channel (see above) to get help.
-
-## Twitter
-
-Please follow us on twitter, oc_rug, and also tweet about the event with the hash tag #SoCalRUG
-
-## Resources
-
-* [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
-    * 1-page note sheets covering data science fundamentals and useful R packages.
-
-* [R for Data Science](https://r4ds.had.co.nz)
-    * Comprehensive book on the complete data science workflow, including data importing/cleaning, visualization, and data analysis
-    * Focus on `tidyverse` packages
-    * Accessible for beginners who have a basic grasp of R
-
-* [Tidyverse, Main Site](https://www.tidyverse.org)
-    * This is the hub website for the core `tidyverse` packages
-    * Check out the *Packages* section and associated links for helpful information on using the packages.
-
-* [Advanced R, 2nd Edition](https://adv-r.hadley.nz)
-    * This book digs into the details of R.
-    * A great resource for more advanced users wanting to learning more about R under the hood.
-    * There is also a [1st Edition](http://adv-r.had.co.nz/) of the book.
-
 ## Food
 
-Coffee and snacks will be provided during the break.
-
-Do to COVID restrictions we will not be able to provide lunch. The [University Town Center (UTC)](https://www.shopirvinecompany.com/centers/irvine/university-center) is located within a 5-minute walk of the classroom. There are many restaurants there. There will be a 1.5 hour break.
+Due to COVID restrictions we will not be able to provide lunch. The [University Town Center (UTC)](https://www.shopirvinecompany.com/centers/irvine/university-center) is located within a 5-minute walk of the classroom. There are many restaurants there. There will be a 1.5 hour break.
 
 ## Schedule
 
-|Start|End|Activity|Slides|
-|:---:|:---:|:------|:-----|
-|08:30|09:00|Sign-in||
+|Start|End|Activity|
+|:---:|:---:|:------|
+|08:30|09:00|Sign-in|
 |09:00|09:30|Introduction and computer setup|
-|09:30|10:30|Wilcoxon Rank-sum test||
-|10:30|11:10|Kolmogorov-Smirnov test||
-|11:10|11:25|Break|||
-|11:25|12:00|Kruskal-Wallis H-test||
-|12:00|12:30|Spearman Rank Correlation Coefficient||
-|12:30|02:00|Lunch||
-|02:00|02:40|Fisher Exact test||
-|02:40|03:20|Loess Regression||
-|03:20|04:15|Bootstrap method of estimation||
-|04:15|04:30|Wrap-up||
+|09:30|10:30|Wilcoxon Rank-sum test|
+|10:30|11:10|Kolmogorov-Smirnov test|
+|11:10|11:25|Break|
+|11:25|12:00|Kruskal-Wallis H-test|
+|12:00|12:30|Spearman Rank Correlation Coefficient|
+|12:30|02:00|Lunch|
+|02:00|02:40|Fisher Exact test|
+|02:40|03:20|Loess Regression|
+|03:20|04:15|Bootstrap method of estimation|
+|04:15|04:30|Wrap-up|
